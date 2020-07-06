@@ -24,11 +24,7 @@ Navigate to src folder and type below command
 #Pattern based
 First user places X on any position and the second player places O
 
- | 0 | X |   |
----------------
- |   | X |   |
----------------
- |   | 0 |   |
+![img](https://image.flaticon.com/icons/svg/57/57180.svg)
 
 The first player to get his a row, column or diagonal filled with his pattern wins.
 
@@ -36,11 +32,8 @@ The first player to get his a row, column or diagonal filled with his pattern wi
 #Number based
 First user places any of the odd numbers from 1 to 9 and the second player uses even numbers from 2 to 8
 
- | 6 | 3 |   |
----------------
- |   | 1 |   |
----------------
- |   | 4 |   |
+![img](https://www.pagat.com/images/poker/tictactoe.gif)
+
 
 First player to get a sum of 15 on any row, column or diagonal wins
 (The row or column or diagonal can contain numbers entered by other player as well)
